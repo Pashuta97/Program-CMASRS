@@ -1,0 +1,14 @@
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\Program CMASRS.exe.config
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\Program CMASRS.exe
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\Program CMASRS.pdb
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program CMASRS.csprojResolveAssemblyReference.cache
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program_CMASRS.Properties.Resources.resources
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program CMASRS.csproj.GenerateResource.Cache
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program CMASRS.csproj.CoreCompileInputs.cache
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program CMASRS.exe
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program CMASRS.pdb
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\Design.mdf
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\Design_log.ldf
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\obj\Debug\Program_CMASRS.Form1.resources
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\Program CMASRS\bin\Debug\RichTextBoxPrintCtrl.pdb

@@ -1,0 +1,6 @@
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csprojResolveAssemblyReference.cache
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csproj.CoreCompileInputs.cache
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\pashu\OneDrive\Навчання\Диплом\Program CMASRS\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb

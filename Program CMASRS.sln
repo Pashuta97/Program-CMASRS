@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program CMASRS", "Program CMASRS\Program CMASRS.csproj", "{59345B63-83C5-4F26-BBB0-E73B27ED2557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBoxPrintCtrl", "RichTextBoxPrintCtrl\RichTextBoxPrintCtrl.csproj", "{939F86DB-E0BE-4A1C-8A9A-7E0A8069EB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59345B63-83C5-4F26-BBB0-E73B27ED2557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59345B63-83C5-4F26-BBB0-E73B27ED2557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59345B63-83C5-4F26-BBB0-E73B27ED2557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59345B63-83C5-4F26-BBB0-E73B27ED2557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939F86DB-E0BE-4A1C-8A9A-7E0A8069EB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939F86DB-E0BE-4A1C-8A9A-7E0A8069EB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939F86DB-E0BE-4A1C-8A9A-7E0A8069EB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939F86DB-E0BE-4A1C-8A9A-7E0A8069EB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4457A4F-3753-44AA-B68F-2991DC0CAAE9}
+	EndGlobalSection
+EndGlobal
